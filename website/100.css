@@ -1,0 +1,104 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #131212f5;
+}
+
+.header {
+    background-color: #04e499a6;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+h2{
+    color: aliceblue
+    ;}
+
+p{color: #020101;}
+
+
+.navbar {
+    background-color: #444;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 1em;
+}
+
+.main-content {
+    padding: 2em;
+}
+
+.hero-section {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+DIV.FIRST{
+    background-color: rgb(45, 102, 175);
+border: 12px solid rgba(40, 51, 102, 0.616);
+border-radius: 20px;
+}
+
+#MIDDLE{
+    text-align: start;
+padding-right: 2PX;
+}
+
+
+.SEARCH{width: 300PX;
+height: 40PX;
+border: 8px solid rgb(34, 73, 31);
+border-radius: 100px;}
+
+#SEARCHBAR{
+    
+    font-size: 30PX;
+    color: rgb(5, 2, 2);
+    
+
+}
+
+.feature-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+DIV.feature{
+    background-color: aquamarine;
+    border: 12px solid rgb(90, 129, 116);
+    border-radius: 20PX;
+}
+
+div.feature3{
+    background-color: rgba(37, 105, 63, 0.705);
+    border:12PX solid rgba(72, 165, 60, 0.603);
+    border-radius: 20PX;
+    
+}
+
+.feature {
+    text-align: center;
+    padding: 1em;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 0 1em;
+}
+
+.footer {
+    background-color: #55beb66c;
+    color: #000000;
+    text-align: center;
+    padding: 1em 0;
+    font-size: large;
+}
+
